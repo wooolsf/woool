@@ -1208,7 +1208,7 @@
 							<b class="tit">游戏状况：</b>
 							正式运营						</p>
 						<p class="item">
-							<b class="tit">官网地址：</b>
+							<b class="tit"><?php echo date("Ymd");?>官网地址：</b>
 	<a title="传奇世界官网" style="CURSOR: point; FONT-WEIGHT: bold; COLOR: red" href="https://wooolsf.github.io/">进入官网</a><!--<i class=gb-marketing-pro-arrow></i>-->
 <style type="text/css">.gb-marketing-pro-arrow{ width: 15px; height: 7px; background: url(http://ue.17173cdn.com/a/news/final/2014/img/arrow.gif) no-repeat 0 0; display: inline-block; vertical-align: middle; margin:0 0 2px 5px;}#gb_markteing_pro_link{ color:#ff0000;}#gb_markteing_pro_link:hover{ text-decoration: underline; background: none;}</style>
 						</p>
